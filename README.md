@@ -1,5 +1,12 @@
 # Power-BI Basic project on Debit Crisis:
-1. Analyze the data given in .CSV files.
-2. Collected data from different countries, with a high risk debt crisis or stable or at low risk.
-3. From this data analyzing to find which country has the highest Debt crisi accross the world.
+•	Import Debit crisis .CSV data files into PowerBI.
+•	Get the values and debits “from country – to country” in the data field.
+•	Create a bin values for amount loaned to country.
+•	Now identify the High risk , low risk and stable state of each country.
+•	Differentiate with color saturation with the risk levels.
+•	Used Chord to visualize credit and debit money from each country.
+•	Used Tree Map to visualize the credit and debit amount of the country.
+•	Analyzing the data to know which country had the high risk and debit crisis across the world.
+•	Power BI Workspace: https://app.powerbi.com/groups/me/reports/da4cbcfc-7fc1-439a-a6b5-8c15a78e72e9/ReportSection
+
 
